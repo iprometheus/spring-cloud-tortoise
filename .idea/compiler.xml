@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="actuator-test" />
+        <module name="command-test" />
+        <module name="config-order-test" />
+        <module name="multiconfig-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="actuator-test" target="1.8" />
+      <module name="command-test" target="1.8" />
+      <module name="config-order-test" target="1.8" />
+      <module name="multiconfig-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
