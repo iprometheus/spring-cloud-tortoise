@@ -5,6 +5,8 @@ import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Random;
+
 @RestController
 public class HelloController {
 
@@ -17,4 +19,10 @@ public class HelloController {
         return "hello world!"+client.getLocalServiceInstance().getHost();
     }
 
+
+    @GetMapping(value = "/hello-delay")
+    public String testDelay() throws Exception{
+        Thread.sleep(new Random().nextInt(5000));
+        return "hello delay";
+    }
 }
