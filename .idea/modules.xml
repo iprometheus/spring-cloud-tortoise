@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/actuator-test/actuator-test.iml" filepath="$PROJECT_DIR$/actuator-test/actuator-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/command-test/command-test.iml" filepath="$PROJECT_DIR$/command-test/command-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-order-test/config-order-test.iml" filepath="$PROJECT_DIR$/config-order-test/config-order-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erueka-server/erueka-server.iml" filepath="$PROJECT_DIR$/erueka-server/erueka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/hello-service/hello-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/multiconfig-test/multiconfig-test.iml" filepath="$PROJECT_DIR$/multiconfig-test/multiconfig-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-tortoise.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-tortoise.iml" />
     </modules>
   </component>

@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/multiconfig-test/pom.xml" />
         <option value="$PROJECT_DIR$/config-order-test/pom.xml" />
         <option value="$PROJECT_DIR$/actuator-test/pom.xml" />
+        <option value="$PROJECT_DIR$/erueka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer/pom.xml" />
       </list>
     </option>
   </component>

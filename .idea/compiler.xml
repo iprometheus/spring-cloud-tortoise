@@ -9,14 +9,20 @@
         <module name="actuator-test" />
         <module name="command-test" />
         <module name="config-order-test" />
+        <module name="erueka-server" />
+        <module name="hello-service" />
         <module name="multiconfig-test" />
+        <module name="ribbon-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="actuator-test" target="1.8" />
       <module name="command-test" target="1.8" />
       <module name="config-order-test" target="1.8" />
+      <module name="erueka-server" target="1.8" />
+      <module name="hello-service" target="1.8" />
       <module name="multiconfig-test" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
