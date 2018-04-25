@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="actuator-test" />
+        <module name="api-gateway" />
         <module name="command-test" />
         <module name="config-order-test" />
         <module name="erueka-server" />
@@ -17,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="actuator-test" target="1.8" />
+      <module name="api-gateway" target="1.8" />
       <module name="command-test" target="1.8" />
       <module name="config-order-test" target="1.8" />
       <module name="erueka-server" target="1.8" />
