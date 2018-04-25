@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/actuator-test/actuator-test.iml" filepath="$PROJECT_DIR$/actuator-test/actuator-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/command-test/command-test.iml" filepath="$PROJECT_DIR$/command-test/command-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-order-test/config-order-test.iml" filepath="$PROJECT_DIR$/config-order-test/config-order-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/erueka-server/erueka-server.iml" filepath="$PROJECT_DIR$/erueka-server/erueka-server.iml" />
