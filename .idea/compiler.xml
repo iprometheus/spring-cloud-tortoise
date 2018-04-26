@@ -10,6 +10,7 @@
         <module name="api-gateway" />
         <module name="command-test" />
         <module name="config-order-test" />
+        <module name="config-server" />
         <module name="erueka-server" />
         <module name="hello-service" />
         <module name="multiconfig-test" />
@@ -21,6 +22,7 @@
       <module name="api-gateway" target="1.8" />
       <module name="command-test" target="1.8" />
       <module name="config-order-test" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="erueka-server" target="1.8" />
       <module name="hello-service" target="1.8" />
       <module name="multiconfig-test" target="1.8" />
